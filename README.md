@@ -1,3 +1,3 @@
 # ConsumptionMeasure
  
-This project has been tested on ESP2866.
+This project has been tested on ESP8266.
